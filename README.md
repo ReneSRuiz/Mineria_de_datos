@@ -6,3 +6,4 @@
 - [Ejercicio bases de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Equipo_11-Ejercicio%20base%20de%20datos.pdf)
 - [Ejercicios básicos de Python](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Phyton_1941452.ipynb)
 - [Ejercicio limpieza de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Limpieza_11.ipynb)
+- [Avance 1 del PIA](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Avance1_PIA_Equipo_11.ipynb)
