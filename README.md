@@ -11,3 +11,5 @@
 ## Fase 2
 
 - [Presentación](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Prersentaci%C3%B3n_Detecci%C3%B3n%20de%20Outliers_Equipo%2011.pdf)
+- [Visualización de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Visualizaci%C3%B3n_Equipo11.ipynb)
+- [Avance 2 del PIA](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/AvancePIA_II_001_11.ipynb)
