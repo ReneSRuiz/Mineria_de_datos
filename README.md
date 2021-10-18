@@ -14,3 +14,4 @@
 - [Visualización de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Visualizaci%C3%B3n_Equipo11.ipynb)
 - [Avance 2 del PIA](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/AvancePIA_II_001_11.ipynb)
 - [Técnica de minería de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/T%C3%A9cnia_Miner%C3%ADa_11.ipynb)
+- [Notebook Final](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/NotebookFinal_Equipo11.ipynb)
